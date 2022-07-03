@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @praneethkokkerapati
-- 👀 I’m interested in data science, AI ML
-- 🌱 I’m currently learning data science
+- 💫 I’m interested in data science, AI ML
 
 <!---
 praneethkokkerapati/praneethkokkerapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
